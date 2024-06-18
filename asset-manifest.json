@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.448d2ed2.css",
+    "main.js": "/portfolio/static/js/main.d32fff51.js",
+    "static/media/Food.jpg": "/portfolio/static/media/Food.ffe25ed8408f29092fc8.jpg",
+    "static/media/php.png": "/portfolio/static/media/php.aa680f57bf75b5d5acdc.png",
+    "static/media/heroImage.jpg": "/portfolio/static/media/heroImage.d36ddd8e292c1c29030c.jpg",
+    "static/media/Spotify1.jpg": "/portfolio/static/media/Spotify1.04a83e0cdef3c45a5fd3.jpg",
+    "static/media/Shopping.jpg": "/portfolio/static/media/Shopping.7ef9245cbc430581e602.jpg",
+    "static/media/Study.jpg": "/portfolio/static/media/Study.63a37e926fe7e4a57db7.jpg",
+    "static/media/Joke.jpg": "/portfolio/static/media/Joke.f68d0162e83c8baac84d.jpg",
+    "static/media/News.jpg": "/portfolio/static/media/News.7fd685552ab67773d2bb.jpg",
+    "static/media/Movie.webp": "/portfolio/static/media/Movie.d68722ed3adf10be2346.webp",
+    "static/media/Swiggy.jpg": "/portfolio/static/media/Swiggy.aff295f4c308124a2f54.jpg",
+    "static/media/Models.jpg": "/portfolio/static/media/Models.830c2093576611f5e121.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Mongo.webp": "/portfolio/static/media/Mongo.3dd65fd5a8e1db937fb1.webp",
+    "static/media/SQL.webp": "/portfolio/static/media/SQL.221d24c1777da3cb3a0d.webp",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/bootstrap.webp": "/portfolio/static/media/bootstrap.fb7617f280e332ec9270.webp",
+    "index.html": "/portfolio/index.html",
+    "main.448d2ed2.css.map": "/portfolio/static/css/main.448d2ed2.css.map",
+    "main.d32fff51.js.map": "/portfolio/static/js/main.d32fff51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448d2ed2.css",
+    "static/js/main.d32fff51.js"
+  ]
+}
